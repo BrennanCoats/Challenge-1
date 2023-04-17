@@ -7,5 +7,5 @@ The structure and visuals of the website were not changed due to the refactoring
 
 Here are a couple of screenshots of the website.
 
-![image ](./Develop/assets/images/week1projectScreenshot1.png)
-![image ](./Develop/assets/images/week1projectScreenshot2.png)
+![image ](./public/Develop/assets/images/week1projectScreenshot1.png)
+![image ](./public/Develop/assets/images/week1projectScreenshot2.png)
